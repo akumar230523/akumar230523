@@ -8,7 +8,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-I'm Full Stack Developer with hands-on experience in building responsive web applications, working on both the frontend and backend development, and I enjoy solving real-world problems through efficient code.<br><br>🛠️ Key Skills:<br>🔹Programming Languages: C++, JavaScript<br>🔹Frontend Technologies: HTML, CSS, Tailwind CSS, React.js<br>🔹Back-end Technologies: Node.js, Express.js, RESTful APIs, MongoDB<br>🔹Tools: Git, GitHub, VS Code<br><br>I am always motivated to learn new technologies, work with professionals, and build products that make a difference. 🚀
+I'm a Full Stack Developer with hands-on experience in building responsive web applications, working on both the frontend and backend development, and I enjoy solving real-world problems through efficient code.<br><br>🛠️ Key Skills:<br>🔹Programming Languages: C++, JavaScript<br>🔹Frontend Technologies: HTML, CSS, Tailwind CSS, React.js<br>🔹Back-end Technologies: Node.js, Express.js, RESTful APIs, MongoDB<br>🔹Tools: Git, GitHub, VS Code<br><br>I am always motivated to learn new technologies, work with professionals, and build products that make a difference. 🚀
 <br><br>
 🌱 Currently learning <b>Next.js</b> and exploring advanced backend design patterns. <br>
 💡 I enjoy solving real-world problems through clean and efficient code. <br>
