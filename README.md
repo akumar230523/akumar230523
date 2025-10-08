@@ -1,3 +1,5 @@
+![Github Banner](/GitHub.png )
+
 <h2 align="center">Hi👋, My name is Amit Kumar and I'm a Full Stack Developer, from India.</h2>
 
 ###
