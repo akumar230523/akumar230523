@@ -1,5 +1,3 @@
-![Github Banner](/GitHub.png )
-
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">Full Stack Developer | Passionate about Building Scalable Web Applications 🚀</h3>
 
